@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "asset-development-stage-gates-client-side-solution",
+    "id": "45883505-0fb8-4fea-93ee-046b437af320",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "asset-development-stage-gates description"
+      },
+      "longDescription": {
+        "default": "asset-development-stage-gates description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "asset-development-stage-gates Feature",
+        "description": "The feature that activates elements of the asset-development-stage-gates solution.",
+        "id": "6efe9b33-9a0e-4a4c-8e80-86d3a2f589e1",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/asset-development-stage-gates.sppkg"
+  }
+}

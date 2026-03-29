@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.2",
+    "sdksVersions": {},
+    "version": "1.22.2",
+    "libraryName": "asset-development-stage-gates",
+    "libraryId": "45883505-0fb8-4fea-93ee-046b437af320",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "asset-development-stage-gates",
+    "solutionShortDescription": "asset-development-stage-gates description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
